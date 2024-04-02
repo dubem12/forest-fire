@@ -3,6 +3,10 @@
 ## Data
 The data focus is on the ISI which correlates to the velocity of fire spread. It´s related to the Forest Fire Weather Index which was a system developed in canada for rating the threat of forest fires , and has subsequently been proven to fit in the Mediterrenian forests (Cortez and Morias "A Data Mining Approach to Predict Forest Fires using Meteorological Data")
 
+## Tools
+1. Python <br>
+2. Microsoft Excel <br>
+
 ## Business Questions
 *The major concern is the role of seasons in ISI rating. 
 The common questions include, what season do most fires take place?
